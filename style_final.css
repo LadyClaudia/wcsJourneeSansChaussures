@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
+
+body 
+{
+	margin-top : 65px;
+	background-image: url(images/fond-chaussettes.jpg); 
+	background-attachment: fixed; 
+	background-size:contain;
+}
+
+ul li 
+{
+	display: block; 
+	text-align: center; 
+	list-style-type:none;
+}
+
+nav 
+{
+	font-family: "Courgette";
+	background-color: purple;
+}
+
+
+a 
+{
+	color: white;
+}
+
+a:visited 
+{
+	color: white;
+}
+
+footer 
+{
+	text-align: center;
+}
+
+h1 
+{
+	font-family: "Courgette";
+	text-align: center;
+	padding-top: 60px; 
+	font-size: 375%; 
+	color: purple;
+}
+
+h2
+{
+	font-family: "Courgette";
+	padding-left: 100px;
+	width: 200%; 
+	padding-top: 20px; 
+	padding-bottom: 20px;
+	color: purple; 
+	font-size: 25px;
+}
+
+h3
+{
+	font-family: "Courgette";
+	font-size: 200%;
+	color: purple;
+}
+
+h4
+{
+	font-family: "Courgette";
+	color:white;
+	text-align:center;
+	font-size: 150%;
+}
+
+h5
+{
+	font-family: "Courgette";
+	color: purple;
+	padding-top: 20px;
+	font-size: 150%;
+}
+
+#date_xs
+{
+	background-color: #DCDCDC;
+	margin-top: -20px;
+}
+
+#buffer /* Tampon */
+{
+	padding-top: 65px;
+}
+
+.buffer
+{
+	text-align: center;
+	font-size: 200%;
+	color: purple;
+	border: 5px double;
+	border-width: 4px 4px 4px 4px;
+	padding: 5px 4px 5px 4px;
+	transform: rotate(-7deg);
+}
+
+
+#chaussettes
+{
+    display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.container
+{
+	background-color: white;
+	box-shadow: 0px 0px 35px 0px rgba(0,0,0,0.75);
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 40px;
+	border: 1px solid #DCDCDC;
+}
+
+#title_card
+{
+	color: purple;
+}
+
+p 
+{
+	color: black; 
+	padding-right: 3%;
+}
+
+
+#p_mentions_legales 
+{
+	font-size: 12px; 
+	text-align: justify; 
+	padding-right: 45px; 
+	padding-top: 25px;
+	color: white;
+}
+
+#p_lien_blog 
+{
+	color: purple;
+}
+
+
+#p_bouton_mentions 
+{
+	background-color: white;
+}
+
+/* Body */
+
+#color_navbar 
+{
+	background-color: purple; 
+}
+
+#logo 
+{
+	margin-top: 20px; 
+	margin-left: 70px;
+}
+
+
+/* Liens */
+
+#lien_secteur 
+{
+	color: darkorange;
+}
+
+#lien_secteur_2 
+{
+	color: darkorange;
+}
+
+/* Contact */
+
+#table_contact 
+{
+	margin-top: 10px;
+}
+
+/*css Candice*/
+.vignettes
+{
+	padding-top: 10px;
+	padding-right: 10px;
+
+}
+
+.align-deck 
+{
+	padding-top: 20px;
+}
+
+.modal-title
+{
+	font-size:2em;
+}
+
+.d-block 
+{
+	max-height: 20vh;
+	max-width: 100vh;
+}
+
+.modal-titre
+{
+	text-align: 
+}
+
+.carteparticip
+{
+	text-align: center;
+}
+/*fin css Candice*/
+
+/* CSS Rémy */
+.btn_accordion
+{
+	color: purple; 
+	font-size: 14pt;
+	white-space: normal;
+	text-align: left;
+}
+
+.btn_violet
+{
+	background-color: purple;
+}
