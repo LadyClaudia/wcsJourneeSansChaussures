@@ -1,4 +1,4 @@
-# wcsJourneeSansChaussures
+# WCS "Journée mondiale du travail sans chaussures"
 
 ## Création d'un site fictif OnePage pour l'Association de "la Journée mondiale du travail sans chaussures" 
 
